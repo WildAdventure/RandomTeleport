@@ -1,0 +1,10 @@
+#
+# Formato: mondo, centroX, centroZ, raggioMin, raggioMax
+# La forma è un quadrato
+#
+default:
+  world: world
+  center-x: 0
+  center-z: 0
+  radius-min: 100
+  radius-max: 5000

@@ -1,0 +1,9 @@
+name: RandomTeleport
+main: com.gmail.filoghost.randomteleport.RandomTeleport
+version: 1.0
+
+softdepend: [WildCommons]
+
+commands:
+   randomteleport:
+      description: Random Teleport.
